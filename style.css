@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: white
+}
+
+.center{  
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 200px;
+	margin: auto;
+	font-family: verdana;
+}
